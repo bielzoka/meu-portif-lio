@@ -1,2 +1,1 @@
-# meu-portif-lio
-esse é o meu primeiro projeto, tá meio inacabado mais vou melhorá-lo
+esse foi o meu primeiro projeto teste, tendo que melhorar mais, praticar e estudar mais
